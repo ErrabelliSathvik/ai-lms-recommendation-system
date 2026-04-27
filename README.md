@@ -29,3 +29,5 @@ An AI-powered system that provides personalized course recommendations using NLP
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
+## 📊 Output Example
+![Output](images/output.png)
