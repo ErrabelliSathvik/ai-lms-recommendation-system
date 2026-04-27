@@ -21,4 +21,4 @@ This project is a simplified implementation of an AI-powered LMS recommendation 
 
 ## Demo
 
-![API Demo](images/demo.png)   
+![API Demo](images/demo.png)
