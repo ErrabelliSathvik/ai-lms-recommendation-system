@@ -1,24 +1,31 @@
+# 🚀 AI LMS Recommendation System
 
-# AI-Based LMS Recommendation System
+An AI-powered system that provides personalized course recommendations using NLP and similarity matching.
 
-This project is a simplified implementation of an AI-powered LMS recommendation system.
+---
 
-## Features
-- Course recommendation using cosine similarity
+## 🔥 Features
+- Personalized course recommendation
 - NLP embeddings using Sentence Transformers
+- Cosine similarity-based matching
 - FastAPI backend
-- Holland Code logic
 
-## Run Instructions
-1. Install dependencies:
-   pip install -r requirements.txt
+---
 
-2. Run server:
-   uvicorn main:app --reload
+## 🧠 Tech Stack
+- Python
+- FastAPI
+- Sentence Transformers
+- Scikit-learn
 
-3. Open browser:
-   http://127.0.0.1:8000/docs
+---
 
-## Demo
-
+## 🚀 Demo
 ![API Demo](images/demo.png)
+
+---
+
+## ⚙️ How to Run
+```bash
+pip install -r requirements.txt
+uvicorn main:app --reload
