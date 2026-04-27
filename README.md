@@ -18,3 +18,7 @@ This project is a simplified implementation of an AI-powered LMS recommendation 
 
 3. Open browser:
    http://127.0.0.1:8000/docs
+
+## Demo
+
+![API Demo](images/demo.png)   
